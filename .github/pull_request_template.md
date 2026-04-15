@@ -12,6 +12,7 @@ Explique brevemente o que foi feito e porque.
 ## ✅ Checklist
 - [ ] Código revisado e testado por mim?
 - [ ] Sem logs/comentarios desnecessários?
+- [ ] Descomentei itens comentados para testes?
 - [ ] Tenho env para configurar?
 - [ ] Sem nada chumbado no código?
 - [ ] Documentação criada e/ou atualizada?
