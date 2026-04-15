@@ -1,5 +1,6 @@
 ## 📌 Descrição
-Explique de forma clara o que foi feito.
+Explique brevemente o que foi feito e porque. 
+
 
 ## 🎯 Tipo de mudança
 - [ ] Bug fix
@@ -7,13 +8,12 @@ Explique de forma clara o que foi feito.
 - [ ] Refatoração
 - [ ] Hotfix
 
-## 📷 Evidências (se aplicável)
-Prints, logs, etc.
-
-## ⚠️ Impactos
-O que isso pode quebrar ou afetar algo?
 
 ## ✅ Checklist
-- [ ] Código revisado e testado por mim
-- [ ] Sem logs desnecessários
-- [ ] Documentação criada e/ou atualizada
+- [ ] Código revisado e testado por mim?
+- [ ] Sem logs/comentarios desnecessários?
+- [ ] Tenho env para configurar?
+- [ ] Sem nada chumbado no código?
+- [ ] Documentação criada e/ou atualizada?
+- [ ] Se aplicavel, passou nos testes unitarios?
+- [ ] Se aplicavel, criei arquivo de GMUD e/ou Go live?
